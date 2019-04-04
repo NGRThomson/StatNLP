@@ -2,7 +2,7 @@
 Code for the final assignment in the UCL module SNLP. 
 
 This assignment achieved a grade of 90% on the topic of story understanding. The task involved 
-rearrange a series of 5 sentences in order to form a story.
+rearranging a series of 5 sentences in order to form coherent a story.
 
 Subjects covered:
 * Regex Tokenisation
